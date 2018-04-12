@@ -20,7 +20,7 @@ data_bucket = 'output_bucket'
 file_ext = '.xlsx' #extension of file you want to convert
 encryption = "AES256" #encrytption of file you saving in S3
 excel_column_alphabet="D" #How many column you want to convert or limit.
-parquet_columns=["processor", "farm_id", "year_mth", "forecast"] #paquet  column names
+parquet_columns=["A", "B", "C", "D"] #paquet  column names
 
 inset_column = '{:%Y-%m-%d}'.format(datetime.datetime.now())
 
