@@ -1,0 +1,6 @@
+# Python
+__pycache__
+.cache
+activate
+*.egg-info
+
