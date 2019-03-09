@@ -1,3 +1,3 @@
-Scripts will get the info of files info across your cluster if tables defines on S3 or on HDFS.
+Scripts will get the info of files that are across your env either tables pointed to S3 or HDFS.
 
-Still Working on steps.
+ Work in Progress.......................
